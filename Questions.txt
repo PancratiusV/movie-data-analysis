@@ -1,0 +1,7 @@
+Questions I want to answer:
+1. What makes a movie popular?
+2. Does having a higher budget lead to higher revenue?
+3. Does having a higher budget lead to higher ratings?
+4. Does popularity equal higher ratings?
+5. Do newer movies outperform older movies?
+6. Are movies getting longer over time?
